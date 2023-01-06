@@ -3,7 +3,7 @@
   "name": "kasa",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://codeuse-83.io/P7-Openclassrooms",
+  "homepage":"https://codeuse-83.github.io/P7-Openclassrooms",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

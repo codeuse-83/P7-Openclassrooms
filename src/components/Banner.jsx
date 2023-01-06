@@ -5,7 +5,7 @@ const Banner = ({ location }) => {
     // Différencier les composants className 
     <div className={"banner_container" + location}>
       <p>
-        Chez vous, <span>partout et ailleurs</span>
+        Chez vous, partout et ailleurs
       </p>
     </div>
   );
