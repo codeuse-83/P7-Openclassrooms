@@ -18,9 +18,9 @@ const Home = () => {
         <section>
           <div className="card_container">
             {/* Creation of a card + NavLink for each data index*/}
-            {data.map((lodging, index) => (
-              <NavLink key={index} to={`/lodging/${lodging.id}`}>
-                <Card key={index} lodging={lodging} />
+            {data.map((logement, index) => (
+              <NavLink key={index} to={`/logement/${logement.id}`}>
+                <Card key={index} logement={logement} />
               </NavLink>
             ))}
           </div>
