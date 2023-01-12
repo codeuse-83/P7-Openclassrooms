@@ -618,6 +618,31 @@ a {
   animation: SHOW-BOX 1.5s ease;
 }
 
+.collapse_box-logement {
+  margin: 30px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.collapse_box-logement .collapse_container {
+  width: 48%;
+  margin-bottom: 25px;
+  font-size: 1.3rem;
+  -webkit-animation: SHOW-BOX 2s ease;
+  animation: SHOW-BOX 2s ease;
+}
+.collapse_box-logement .collapse_container .button_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  background-color: #FF6060;
+  border-radius: 5px;
+  color: #FFFFFF;
+  padding: 10px;
+  font-weight: 500;
+  cursor: pointer;
+}
 footer {
   display: flex;
   justify-content: center;

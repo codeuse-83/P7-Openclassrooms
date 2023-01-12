@@ -37,5 +37,36 @@
     }
 }
 
+.collapse_box-logement {
+    margin: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    .collapse_container {
+        width: 48%;
+        margin-bottom: 25px;
+        font-size: 1.3rem;
+        -webkit-animation: SHOW-BOX 2s ease;
+        -moz-animation: SHOW-BOX 2s ease;
+        -o-animation: SHOW-BOX 2s ease;
+        animation: SHOW-BOX 2s ease;
+        .button_container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 5px;
+            background-color: $color-salmon;
+            border-radius: 5px;
+            color: $color-white;
+            padding: 10px;
+            font-weight: 500;
+            cursor: pointer;
+        }
+        .collapse_content {
+            
+        }
+    }
+}
+
 
 
