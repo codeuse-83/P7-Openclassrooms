@@ -643,6 +643,19 @@ a {
   font-weight: 500;
   cursor: pointer;
 }
+.collapse_box-logement .collapse_container .collapse_content {
+  background-color: #F6F6F6;
+  color: #FF6060;
+  padding: 20px 10px 10px;
+  border-radius: 0 0 10px 5px;
+  -webkit-animation: SHOW-BOX 1.5s ease;
+  animation: SHOW-BOX 1.5s ease;
+  line-height: 25px;
+}
+.collapse_box-logement .collapse_container .collapse_content li {
+  margin-top: 5px;
+}
+
 footer {
   display: flex;
   justify-content: center;
