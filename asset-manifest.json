@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/P7-Openclassrooms/static/css/main.b4dcb776.css",
+    "main.js": "/P7-Openclassrooms/static/js/main.9d2f8cd7.js",
+    "static/media/Banniere-apropos.png": "/P7-Openclassrooms/static/media/Banniere-apropos.6409af8db1576308fb2b.png",
+    "static/media/Banniere-accueil.png": "/P7-Openclassrooms/static/media/Banniere-accueil.ac3aa7396c2c7cd05e2e.png",
+    "static/media/Banniere-apropos2.png": "/P7-Openclassrooms/static/media/Banniere-apropos2.ee6d99ddaf5496d8ca7d.png",
+    "index.html": "/P7-Openclassrooms/index.html",
+    "static/media/starEmpty.svg": "/P7-Openclassrooms/static/media/starEmpty.ae969662d77c07fdced4114f41bf3e69.svg",
+    "static/media/starFull.svg": "/P7-Openclassrooms/static/media/starFull.4949d967956f67c591576c1c58b597ba.svg",
+    "static/media/VectorLeft.svg": "/P7-Openclassrooms/static/media/VectorLeft.f114b3d36e56c8c217832ad98a63d472.svg",
+    "static/media/VectorRight.svg": "/P7-Openclassrooms/static/media/VectorRight.8d9545cb18f67cea4ffddb888aa4dcb0.svg",
+    "main.b4dcb776.css.map": "/P7-Openclassrooms/static/css/main.b4dcb776.css.map",
+    "main.9d2f8cd7.js.map": "/P7-Openclassrooms/static/js/main.9d2f8cd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4dcb776.css",
+    "static/js/main.9d2f8cd7.js"
+  ]
+}
